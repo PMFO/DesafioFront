@@ -1,0 +1,2566 @@
+{
+    "periods": {
+        "TRES_MESES": [
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": 1.5565991401672363
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": 3.7096899665215233
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": 4.080436362433226
+            },
+            {
+                "benchmarkPortfolio": 709.0909090909091,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 0.21999999999999797
+            },
+            {
+                "benchmarkPortfolio": 904.8780487804878,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 0.4104179999999902
+            },
+            {
+                "benchmarkPortfolio": 715.7894736842106,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 0.5710746687999979
+            },
+            {
+                "benchmarkPortfolio": 197.46835443037975,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 0.7900000000000018
+            },
+            {
+                "benchmarkPortfolio": 197.34042553191492,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 1.8785319999999883
+            },
+            {
+                "benchmarkPortfolio": 367.56756756756755,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 1.114443009999988
+            },
+            {
+                "benchmarkPortfolio": 76.09756097560977,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": 2.0499999999999963
+            },
+            {
+                "benchmarkPortfolio": 56.814701378254206,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": 6.5299949999999995
+            },
+            {
+                "benchmarkPortfolio": 88.50325379609544,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": 4.612455089999989
+            },
+            {
+                "benchmarkPortfolio": 162.50000000000003,
+                "date": "2020-06-26T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 0.9600000000000053
+            },
+            {
+                "benchmarkPortfolio": 67.53246753246754,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 2.3128640000000145
+            },
+            {
+                "benchmarkPortfolio": 113.80368098159511,
+                "date": "2020-07-16T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 3.264373635200024
+            },
+            {
+                "benchmarkPortfolio": 68.1985294117647,
+                "date": "2020-07-29T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 5.443251918902736
+            },
+            {
+                "benchmarkPortfolio": 48.94459102902375,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 7.583749932856465
+            },
+            {
+                "benchmarkPortfolio": 51.06382978723404,
+                "date": "2020-08-20T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 7.992568182601323
+            },
+            {
+                "benchmarkPortfolio": 48.62932061978545,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 8.392140684876948
+            },
+            {
+                "benchmarkPortfolio": 17.808219178082194,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": 8.759999999999991
+            },
+            {
+                "benchmarkPortfolio": 20.901408450704224,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": 17.754451999999986
+            },
+            {
+                "benchmarkPortfolio": 29.781021897810223,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": 13.703698851199997
+            },
+            {
+                "benchmarkPortfolio": 169.56521739130434,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 0.9200000000000097
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": -4.105815999999985
+            },
+            {
+                "benchmarkPortfolio": 491.56626506024105,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 0.8327344760000299
+            },
+            {
+                "benchmarkPortfolio": 600.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 0.25999999999999357
+            },
+            {
+                "benchmarkPortfolio": 412.2222222222222,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 0.9016639999999798
+            },
+            {
+                "benchmarkPortfolio": 273.8255033557047,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 1.486893651199983
+            },
+            {
+                "benchmarkPortfolio": 445.7142857142857,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 0.35000000000000586
+            },
+            {
+                "benchmarkPortfolio": 331.24999999999994,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 1.122695000000018
+            },
+            {
+                "benchmarkPortfolio": 222.95081967213113,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 1.8305538649999953
+            },
+            {
+                "benchmarkPortfolio": 362.79069767441865,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 0.42999999999999705
+            },
+            {
+                "benchmarkPortfolio": 289.84375,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 1.2836549999999836
+            },
+            {
+                "benchmarkPortfolio": 197.10144927536234,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 2.073667508999999
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -25.590000000000003
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -25.590000000000003
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -34.162031999999996
+            },
+            {
+                "benchmarkPortfolio": 147.16981132075472,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 1.0599999999999943
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": -2.3154039999999987
+            },
+            {
+                "benchmarkPortfolio": 207.10659898477158,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 1.9729497644000116
+            },
+            {
+                "benchmarkPortfolio": 154.45544554455446,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 1.0099999999999998
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": -3.0708040000000048
+            },
+            {
+                "benchmarkPortfolio": 244.311377245509,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 1.6690336843999898
+            },
+            {
+                "benchmarkPortfolio": 76.09756097560977,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 2.0499999999999963
+            },
+            {
+                "benchmarkPortfolio": 75.86912065439674,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 4.886989999999991
+            },
+            {
+                "benchmarkPortfolio": 49.215922798552484,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 8.285328476000009
+            },
+            {
+                "benchmarkPortfolio": 17.391304347826086,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IBX",
+                "value": 8.970000000000011
+            },
+            {
+                "benchmarkPortfolio": 20.463320463320464,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IBX",
+                "value": 18.134377000000022
+            },
+            {
+                "benchmarkPortfolio": 28.85431400282885,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IBX",
+                "value": 14.14143505740002
+            },
+            {
+                "benchmarkPortfolio": 17.430167597765365,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": 8.949999999999992
+            },
+            {
+                "benchmarkPortfolio": 23.100871731008716,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": 16.06443499999999
+            },
+            {
+                "benchmarkPortfolio": 39.0057361376673,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": 10.458522789499991
+            },
+            {
+                "benchmarkPortfolio": 139.28571428571428,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 1.1200000000000099
+            },
+            {
+                "benchmarkPortfolio": 175.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 2.1210880000000154
+            },
+            {
+                "benchmarkPortfolio": 159.375,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 2.560208678400011
+            },
+            {
+                "benchmarkPortfolio": 54.929577464788736,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": 2.839999999999998
+            },
+            {
+                "benchmarkPortfolio": 35.776277724204434,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": 10.367887999999992
+            },
+            {
+                "benchmarkPortfolio": 64.05023547880691,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": 6.372570454399984
+            },
+            {
+                "benchmarkPortfolio": 10.81081081081081,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": 14.429999999999987
+            },
+            {
+                "benchmarkPortfolio": 14.664031620553358,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": 25.300849999999976
+            },
+            {
+                "benchmarkPortfolio": 17.17171717171717,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": 23.759649544999984
+            },
+            {
+                "benchmarkPortfolio": 157.5757575757576,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 0.990000000000002
+            },
+            {
+                "benchmarkPortfolio": 134.9090909090909,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 2.7472260000000137
+            },
+            {
+                "benchmarkPortfolio": 191.5492957746479,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 2.1307426440000166
+            }
+        ],
+        "SEIS_MESES": [
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": -6.964153051376343
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": -4.367334567059089
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": -5.047014878354982
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": -3.5689775283883285
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": -1.5245535163846413
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": -1.1725187462355735
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 0.34000000000000696
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 0.6209520000000079
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 0.8624422847999913
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 1.0843396578265496
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 1.2763999031764284
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 1.4384421430215122
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": -0.10999999999999899
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 1.0387350000000017
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 2.4734850370000006
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 3.2830255687923193
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 4.3984822449352645
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 3.615493628098254
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": -6.969999999999999
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": -5.751306999999983
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": -4.31872686639998
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": -2.3572607671611845
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": 1.9292554851604526
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": 0.09452888642755841
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-26T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -4.669999999999996
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -9.169576000000001
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-22T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -7.062310163199992
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-29T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -5.240731442398705
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -3.459257193515808
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-13T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -3.1696349650963573
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -1.4847866134890308
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-26T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -0.5390405649785213
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 0.793736291450764
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-16T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 1.7311180389612657
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-29T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 3.8776446295833544
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 5.986360815563896
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-20T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 6.389108986663028
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 6.782748689913687
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": -29.89999999999999
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": -22.714749999999995
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": -16.091404074999982
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": -8.741011071969984
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": -1.1938926876219003
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": -4.592822779167715
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 15.559999999999995
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 20.63308400000001
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 20.621020691600012
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 21.730734081962733
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 15.668543524680988
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 21.625473516202078
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 0.5400000000000071
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 0.7511339999999977
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 0.7309837732000002
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 0.9928843310103241
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 1.6392387907287809
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 2.2287463757150183
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 0.6199999999999983
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 0.8916739999999868
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 0.9320306695999925
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 1.2852927769436029
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 2.0651895313260615
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 2.779645858045332
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 0.6999999999999895
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 1.0423799999999872
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 1.1636308559999975
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 1.598634468680804
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 2.462222861664576
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 3.261428199985561
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -11.840000000000007
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -11.840000000000007
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -29.70121600000001
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -47.69067482560001
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -47.69067482560001
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -53.71670908569088
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 13.339999999999996
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 18.383629999999982
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 17.28266224099999
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 18.525858460754584
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 14.567094788165381
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 19.596590249365864
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 15.32
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 20.94761599999999
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 19.423676038400007
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 20.629855166387845
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 15.756409017665774
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 21.41689741862962
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 1.760000000000006
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 3.0523520000000026
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 3.8149394047999996
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 5.9431456625983925
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 8.888365112018647
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 12.416348141648047
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IBX",
+                "value": -30.089999999999996
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IBX",
+                "value": -22.910242999999998
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IBX",
+                "value": -16.342195703599995
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IBX",
+                "value": -8.838090658212906
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IBX",
+                "value": -1.1713740825686103
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IBX",
+                "value": -4.511781638577794
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": -25.53000000000001
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": -22.729928
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": -18.866424400000003
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": -11.6049693838
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": -5.832773884562159
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": -10.381050905937805
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": -1.749999999999996
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": -1.2685750000000051
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 0.8245312100000124
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 1.9537659595520118
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 2.963108242551593
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 3.405849607994549
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": -10.929999999999996
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": -9.139692999999994
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": -8.2129178686
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": -5.6061647360682425
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": 1.3034640052515645
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": -2.363721391738549
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": -35.07
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": -28.45363299999999
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": -24.826232193099994
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": -13.97865749856434
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": -5.806629960927944
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": -6.96520841240853
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IMA",
+                "value": -1.980000000000004
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IMA",
+                "value": -1.1370280000000066
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IMA",
+                "value": -0.12862568560001453
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 0.8601009201125498
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 2.615066676122524
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 1.9993762760657896
+            }
+        ],
+        "DOZE_MESES": [
+            {
+                "benchmarkPortfolio": null,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": 1.1954545974731445
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": 1.7828837229757255
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": 3.7546810284329712
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": 5.030902214660382
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": 3.6252265834607167
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": -3.5913927956470193
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": -0.9004337573120691
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": -1.6047540199356058
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": -0.0731344670444889
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": 2.045404547721019
+            },
+            {
+                "benchmarkPortfolio": null,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "MINHA CARTEIRA",
+                "value": 2.410201375940546
+            },
+            {
+                "benchmarkPortfolio": 250.0,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 0.47999999999999154
+            },
+            {
+                "benchmarkPortfolio": 206.97674418604652,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 0.8618239999999888
+            },
+            {
+                "benchmarkPortfolio": 300.0,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 1.245098931199995
+            },
+            {
+                "benchmarkPortfolio": 308.5889570552148,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 1.629830307138569
+            },
+            {
+                "benchmarkPortfolio": 189.0625,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 1.9245568150292547
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 2.2711003082003467
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 2.55745938906331
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 2.8035972915970486
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 3.0297652056385793
+            },
+            {
+                "benchmarkPortfolio": 63.46749226006192,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 3.2255217595292818
+            },
+            {
+                "benchmarkPortfolio": 71.09144542772862,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "CDI",
+                "value": 3.3906825943445407
+            },
+            {
+                "benchmarkPortfolio": 70.58823529411765,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 1.6999999999999904
+            },
+            {
+                "benchmarkPortfolio": 144.71544715447155,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 1.2321799999999827
+            },
+            {
+                "benchmarkPortfolio": 201.61290322580646,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 1.859819515999983
+            },
+            {
+                "benchmarkPortfolio": 182.24637681159425,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 2.756185927740784
+            },
+            {
+                "benchmarkPortfolio": 106.14035087719299,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 3.424101136271096
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 3.310334625021194
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 4.498403473208934
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 5.982280802528495
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 6.819540820868486
+            },
+            {
+                "benchmarkPortfolio": 25.721455457967373,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 7.973191861733864
+            },
+            {
+                "benchmarkPortfolio": 33.659217877094974,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IRF-M",
+                "value": 7.1633929227708615
+            },
+            {
+                "benchmarkPortfolio": 35.714285714285715,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": 3.3600000000000074
+            },
+            {
+                "benchmarkPortfolio": 214.4578313253012,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": 0.8276800000000195
+            },
+            {
+                "benchmarkPortfolio": 131.57894736842104,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": 2.8543163680000205
+            },
+            {
+                "benchmarkPortfolio": 161.21794871794873,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": 3.1217375905568057
+            },
+            {
+                "benchmarkPortfolio": 101.11420612813372,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": 3.585785409714304
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": -3.6341438333427845
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": -2.371751117559562
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": -0.8878017345464562
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": 1.143998329895335
+            },
+            {
+                "benchmarkPortfolio": 36.738351254480285,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": 5.5842198565777545
+            },
+            {
+                "benchmarkPortfolio": 65.48913043478261,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IMA-B",
+                "value": 3.683703899159352
+            },
+            {
+                "benchmarkPortfolio": 193.54838709677418,
+                "date": "2019-10-17T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 0.6199999999999983
+            },
+            {
+                "benchmarkPortfolio": 65.93406593406593,
+                "date": "2019-10-29T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 1.8173779999999917
+            },
+            {
+                "benchmarkPortfolio": 38.58520900321543,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 3.110458700599983
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2019-11-22T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -8.8503545086696
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -9.278757842478857
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2019-12-23T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -7.682063980506482
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -5.734155530495178
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-01-28T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -5.168560463678151
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -4.912515576930088
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-02-27T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -5.5020579803531255
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -6.201342751298499
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-26T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -10.58174004481286
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -14.80228191469769
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-22T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -12.825694855118675
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-29T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -11.117078474278996
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -9.446079549595442
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-13T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -9.174417788244238
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -7.594052657759686
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-26T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -6.706955563274175
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -5.456828767822042
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-16T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -4.577577275362776
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-29T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -2.564164155872939
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -0.5862166882371622
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-20T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": -0.20844431165245592
+            },
+            {
+                "benchmarkPortfolio": 1506.25,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "BTG PACTUAL IFMM",
+                "value": 0.16078444439442396
+            },
+            {
+                "benchmarkPortfolio": 50.847457627118644,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": 2.3600000000000065
+            },
+            {
+                "benchmarkPortfolio": 53.45345345345345,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": 3.3324200000000026
+            },
+            {
+                "benchmarkPortfolio": 36.023054755043226,
+                "date": "2019-12-30T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": 10.41069077000001
+            },
+            {
+                "benchmarkPortfolio": 58.420441347270625,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": 8.61099651044901
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": -0.5449104953818451
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": -30.281982257262662
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": -23.135885438632087
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": -16.548630820722842
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": -9.238290880618171
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": -1.732297536445293
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IBOVESPA",
+                "value": -5.112706501191577
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": -3.849999999999998
+            },
+            {
+                "benchmarkPortfolio": 124.47552447552448,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 1.4286349999999892
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": -3.216796482999995
+            },
+            {
+                "benchmarkPortfolio": 200.39840637450203,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 2.5127691652063966
+            },
+            {
+                "benchmarkPortfolio": 45.261845386533665,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 8.017704869377983
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 24.82525974705321
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 30.30508864994883
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 30.292058141083842
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 31.49074507598182
+            },
+            {
+                "benchmarkPortfolio": 8.21972734562951,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 24.94250597119794
+            },
+            {
+                "benchmarkPortfolio": 7.680050987890377,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "DOLAR",
+                "value": 31.377045028714655
+            },
+            {
+                "benchmarkPortfolio": 375.0,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 0.32000000000000917
+            },
+            {
+                "benchmarkPortfolio": 209.41176470588238,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 0.8516960000000129
+            },
+            {
+                "benchmarkPortfolio": 188.44221105527637,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 1.9913201648000367
+            },
+            {
+                "benchmarkPortfolio": 168.22742474916387,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 2.990835102415068
+            },
+            {
+                "benchmarkPortfolio": 105.83090379008746,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 3.433695693355454
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 3.9922376500995727
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 4.210621349164789
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 4.189779224894963
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 4.460672650879682
+            },
+            {
+                "benchmarkPortfolio": 39.96101364522417,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 5.129220955845293
+            },
+            {
+                "benchmarkPortfolio": 41.98606271777003,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IPCA IMAB+5",
+                "value": 5.738970437389201
+            },
+            {
+                "benchmarkPortfolio": 250.0,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 0.47999999999999154
+            },
+            {
+                "benchmarkPortfolio": 154.7826086956522,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 1.1532159999999791
+            },
+            {
+                "benchmarkPortfolio": 153.68852459016392,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 2.4378618431999843
+            },
+            {
+                "benchmarkPortfolio": 140.89635854341736,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 3.5749221096595063
+            },
+            {
+                "benchmarkPortfolio": 87.68115942028986,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 4.144584181262645
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 4.79028060318647
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 5.07321436081507
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 5.115243646559375
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 5.4831469993223525
+            },
+            {
+                "benchmarkPortfolio": 32.53968253968254,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 6.2953672312171305
+            },
+            {
+                "benchmarkPortfolio": 34.23295454545455,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IPCA+5",
+                "value": 7.039434801835642
+            },
+            {
+                "benchmarkPortfolio": 214.28571428571428,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 0.5600000000000049
+            },
+            {
+                "benchmarkPortfolio": 136.92307692307693,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 1.304144000000007
+            },
+            {
+                "benchmarkPortfolio": 140.4494382022472,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 2.6717499440000125
+            },
+            {
+                "benchmarkPortfolio": 128.97435897435898,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 3.903810943328012
+            },
+            {
+                "benchmarkPortfolio": 79.78021978021978,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 4.548014571176662
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 5.2798506731748684
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 5.637802165463679
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 5.764567528062248
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 6.219355168432905
+            },
+            {
+                "benchmarkPortfolio": 28.792134831460668,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 7.122219687364595
+            },
+            {
+                "benchmarkPortfolio": 30.27638190954774,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IPCA",
+                "value": 7.957773000926038
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -9.040000000000003
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -9.040000000000003
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -18.126904
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -18.126904
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -22.687235447200006
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -31.841066770251526
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -31.841066770251526
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -45.65006664259856
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -59.55821458875759
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -59.55821458875759
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "CDIE",
+                "value": -64.21710826813272
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": -2.300000000000002
+            },
+            {
+                "benchmarkPortfolio": 78.07017543859651,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 2.2821299999999933
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": -1.7375577090000038
+            },
+            {
+                "benchmarkPortfolio": 124.5049504950495,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 4.040273897710778
+            },
+            {
+                "benchmarkPortfolio": 40.87837837837837,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 8.878146633954342
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 23.402491394923853
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 28.89390226199795
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 27.69518897096137
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 29.04875797405355
+            },
+            {
+                "benchmarkPortfolio": 8.286176232821342,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 24.73852945772017
+            },
+            {
+                "benchmarkPortfolio": 7.977490897053956,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "DOLAR LIBRA",
+                "value": 30.214550900914094
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": -3.069999999999995
+            },
+            {
+                "benchmarkPortfolio": 92.2279792746114,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 1.9315880000000174
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": -3.144605082399987
+            },
+            {
+                "benchmarkPortfolio": 155.72755417956657,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 3.2284799031781164
+            },
+            {
+                "benchmarkPortfolio": 42.505854800936774,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 8.544746618191802
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 25.173801800098783
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 31.28228332794358
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 29.628126558011502
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 30.93737063624742
+            },
+            {
+                "benchmarkPortfolio": 7.992202729044834,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 25.647500862543016
+            },
+            {
+                "benchmarkPortfolio": 7.581000314564329,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "DOLAR BM",
+                "value": 31.79166365472137
+            },
+            {
+                "benchmarkPortfolio": 98.36065573770492,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 1.2199999999999989
+            },
+            {
+                "benchmarkPortfolio": 89.44723618090453,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 1.9892720000000086
+            },
+            {
+                "benchmarkPortfolio": 80.99352051835854,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 4.63079414480001
+            },
+            {
+                "benchmarkPortfolio": 88.71252204585538,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 5.666639006833529
+            },
+            {
+                "benchmarkPortfolio": 59.80230642504119,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 6.06817223505951
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 7.934972066396551
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 9.305746211639775
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 10.114608733605923
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 12.371958212644852
+            },
+            {
+                "benchmarkPortfolio": 13.2258064516129,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 15.495898650956374
+            },
+            {
+                "benchmarkPortfolio": 12.525987525987528,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IGPM",
+                "value": 19.237965767247367
+            },
+            {
+                "benchmarkPortfolio": 54.54545454545454,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "IBX",
+                "value": 2.200000000000002
+            },
+            {
+                "benchmarkPortfolio": 55.79937304075236,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "IBX",
+                "value": 3.191340000000009
+            },
+            {
+                "benchmarkPortfolio": 35.07951356407858,
+                "date": "2019-12-30T00:00:00.000-0300",
+                "name": "IBX",
+                "value": 10.693350418000014
+            },
+            {
+                "benchmarkPortfolio": 54.02792696025779,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "IBX",
+                "value": 9.309683537775015
+            },
+            {
+                "benchmarkPortfolio": 1134.375,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "IBX",
+                "value": 0.32442755096990794
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IBX",
+                "value": -29.863192699116937
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IBX",
+                "value": -22.660142589316244
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IBX",
+                "value": -16.070786737925992
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IBX",
+                "value": -8.542336308317944
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IBX",
+                "value": -0.8507467918474787
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IBX",
+                "value": -4.201991550283046
+            },
+            {
+                "benchmarkPortfolio": 78.94736842105263,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": 1.5200000000000102
+            },
+            {
+                "benchmarkPortfolio": 45.52429667519181,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": 3.9057200000000236
+            },
+            {
+                "benchmarkPortfolio": 26.24212736179146,
+                "date": "2019-12-30T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": 14.285901428000036
+            },
+            {
+                "benchmarkPortfolio": 40.30448717948718,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": 12.480184185437615
+            },
+            {
+                "benchmarkPortfolio": 65.64195298372513,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": 5.528908802777588
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": -21.412621614571535
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": -18.457736187279426
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": -14.380622996643389
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": -6.717688754842987
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": -0.6263538305342431
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IDIV",
+                "value": -5.42610094051944
+            },
+            {
+                "benchmarkPortfolio": 72.72727272727273,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 1.649999999999996
+            },
+            {
+                "benchmarkPortfolio": 129.92700729927006,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 1.3653799999999938
+            },
+            {
+                "benchmarkPortfolio": 143.12977099236642,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 2.6223107119999867
+            },
+            {
+                "benchmarkPortfolio": 157.1875,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 3.196995651987189
+            },
+            {
+                "benchmarkPortfolio": 94.04145077720207,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 3.8574564241599107
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 2.0399509367371227
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 2.539946696327111
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 4.7137935662892705
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 5.886588054231723
+            },
+            {
+                "benchmarkPortfolio": 29.58152958152958,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 6.934865275968605
+            },
+            {
+                "benchmarkPortfolio": 32.61163734776726,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IMA-B5",
+                "value": 7.394685196655271
+            },
+            {
+                "benchmarkPortfolio": 25.69593147751606,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": 4.669999999999996
+            },
+            {
+                "benchmarkPortfolio": 434.1463414634147,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": 0.4099309999999967
+            },
+            {
+                "benchmarkPortfolio": 124.17218543046357,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": 3.020589206000013
+            },
+            {
+                "benchmarkPortfolio": 164.91803278688525,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": 3.051495382761793
+            },
+            {
+                "benchmarkPortfolio": 107.39644970414201,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": 3.381260167986655
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": -7.918311568374293
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": -6.067469630898614
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": -5.109357821133775
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": -2.4144635832539785
+            },
+            {
+                "benchmarkPortfolio": 43.34038054968287,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": 4.728797682451824
+            },
+            {
+                "benchmarkPortfolio": 256.3829787234043,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IMA-B5+",
+                "value": 0.9376152063470755
+            },
+            {
+                "benchmarkPortfolio": 52.63157894736842,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": 2.279999999999993
+            },
+            {
+                "benchmarkPortfolio": 23.607427055702917,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": 7.5371919999999815
+            },
+            {
+                "benchmarkPortfolio": 17.738883632923365,
+                "date": "2019-12-30T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": 21.140646787999984
+            },
+            {
+                "benchmarkPortfolio": 23.190410327339787,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": 21.68577969854597
+            },
+            {
+                "benchmarkPortfolio": 31.23924268502582,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": 11.622365717476235
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": -27.523597939642684
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": -20.138252569692273
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": -16.089261974975667
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": -3.9809424779646663
+            },
+            {
+                "benchmarkPortfolio": 39.88326848249027,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": 5.140867986628694
+            },
+            {
+                "benchmarkPortfolio": 62.5974025974026,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "SMLL",
+                "value": 3.8476353103931604
+            },
+            {
+                "benchmarkPortfolio": 69.76744186046511,
+                "date": "2019-10-31T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 1.7200000000000104
+            },
+            {
+                "benchmarkPortfolio": 178.0,
+                "date": "2019-11-29T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 0.9977880000000106
+            },
+            {
+                "benchmarkPortfolio": 196.33507853403142,
+                "date": "2019-12-31T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 1.9067680920000107
+            },
+            {
+                "benchmarkPortfolio": 202.8225806451613,
+                "date": "2020-01-31T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 2.477445993315208
+            },
+            {
+                "benchmarkPortfolio": 123.46938775510203,
+                "date": "2020-02-28T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 2.9385945002851077
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-03-31T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 0.9004103291794685
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-04-30T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 1.7681538580104128
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-05-29T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 2.806189027362116
+            },
+            {
+                "benchmarkPortfolio": 0.0,
+                "date": "2020-06-30T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 3.8239702987330038
+            },
+            {
+                "benchmarkPortfolio": 36.41207815275311,
+                "date": "2020-07-31T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 5.63050738193096
+            },
+            {
+                "benchmarkPortfolio": 48.2,
+                "date": "2020-08-31T00:00:00.000-0300",
+                "name": "IMA",
+                "value": 4.99672433763938
+            }
+        ]
+    }
+}
