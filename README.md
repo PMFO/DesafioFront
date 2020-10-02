@@ -19,3 +19,6 @@ benchmarkPortfolio: pode ignorar o campo
 Utilize a linguagem e tecnologias que quiser.
 
 Será avaliado o código fonte e o resultado da tela.
+
+## Entrega
+Enviar o projeto para o e-mail ti@pmfo.com.br
